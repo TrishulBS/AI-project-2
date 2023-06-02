@@ -1,0 +1,1 @@
+print('Starting AI project 2')
