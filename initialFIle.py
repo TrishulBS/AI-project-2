@@ -55,6 +55,56 @@ dataset = int(input())
 print('what algorithm do you want to use? Press 1 for forward selection or 2 for backward elimination')
 algorithm = int(input())
 
+def backward_elimination(data):
+    current_set = list(range(1, len(data[0])))
+    overall_precision_best = 0
+    curr_feature_set = []
+
+    i = 1
+    while(i<len(data[0])):
+        print("When examining the search tree at the level", i)
+        eliminate_feature = None
+        precision_highest = 0
+
+
+        j=1
+        print(current_set)
+        while(j<len(data[0])):
+            boo = False
+            for ele in current_set:
+                if ele == j:
+                    boo=True
+                    break
+            if boo == True:
+                print('Verifying the possiblity of removing the ', j, 'th feature')
+                precision = cross_val_without_one_feature(2, data, current_set.copy(), j)
+
+                if precision > precision_highest:
+                    precision_highest = precision
+                    eliminate_feature = j
+            j+=1
+
+        boo2 = False
+        for ele in current_set:
+            if ele == eliminate_feature:
+                boo2 = True
+                break
+
+        if boo2 == True:
+            current_set.remove(eliminate_feature)
+
+        boo3=False
+        if precision_highest > overall_precision_best:
+            overall_precision_best = max(overall_precision_best, precision_highest)
+            boo3=True
+
+        if boo3 == True:
+            curr_feature_set = current_set
+
+        print('We can eliminate the feature', eliminate_feature, 'from the current features resulting in an accuracy: ', precision_highest)
+        i+=1
+    print('After considering all features, the resulting feature set is', curr_feature_set, 'which exhibits an accuarcy: ',overall_precision_best)
+
 
 
 
