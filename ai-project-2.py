@@ -22,7 +22,7 @@ def forward_selection(data):
                     break
             if boo == False:
                 print('Verifying the possiblity of adding the ', j, 'th feature')
-                precision = cross_val_without_one_feature(1, data, current_set.copy(), j)
+                precision = calculate_accuracy(1, data, current_set.copy(), j)
 
                 if precision > precision_highest:
                     precision_highest = precision
