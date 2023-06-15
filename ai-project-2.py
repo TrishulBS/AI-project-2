@@ -105,45 +105,42 @@ def backward_elimination(data):
         i+=1
     print('After considering all features, the resulting feature set is', curr_feature_set, 'which exhibits an accuarcy: ',overall_precision_best)
 
-def calculate_accuracy(data, algo, current_list, feature_to_test):
-    if algo == 1:
-        updated_list = current_list + [feature_to_test]
-    else:
-        updated_list = [feature for feature in current_list if feature != feature_to_test]
-     
-    num_samples = len(data[0])
-    num_correct_classifications = 0
+def calculate_distance(instance1, instance2, features):
+    distance = 0
+    
+    for feature in features:
+        distance += (instance1[feature] - instance2[feature])**2
+    
+    return distance**2
 
-    for i, object_data in enumerate(data):
-        object_label = object_data[0]
+def calculate_accuracy(search_type, data, current_list, feature): 
+    updated_list = list(current_list) 
+    if search_type == 1: 
+        updated_list.append(feature)
+    else:
+        updated_list.remove(feature)
+        
+    val = 0
+    for i in range(len(data)):
+        classify_label = data[i][0]
         dist_nn = float('inf')
         loc_nn = float('inf')
 
-        for j, neighbor_data in enumerate(data):
+        for j in range(len(data)):
             if j != i:
-                dist = 0
-
-                for index in updated_list:
-                    dist += (object_data[index] - neighbor_data[index]) ** 2
-
-                dist = dist ** 0.5
-                
-                boolean = False
-                if dist_nn>dist:
-                    dist_nn = max(dist_nn, dist)
-                    boolean = True
-                
-                if boolean == True:
+                distance = calculate_distance(data[i], data[j], updated_list)
+                boo=False
+                if distance < dist_nn:
+                    boo=True
+                    dist_nn = distance
+                if boo==True:
                     loc_nn = j
-                    label_nn = data[loc_nn, 0]
-                    
+                    label_nn = data[loc_nn][0]
 
-    if object_label == label_nn:
-        num_correct_classifications += 1
+        if classify_label == label_nn:
+            val += 1
 
-
-    return num_correct_classifications / num_samples
-
+    return val / len(data)
 def get_data(file_path):
     with open(file_path, 'r') as file:
         lines = file.readlines()
