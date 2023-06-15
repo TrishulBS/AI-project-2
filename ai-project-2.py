@@ -44,7 +44,7 @@ def forward_selection(data):
             boo3=True
 
         if boo3 == True:
-            curr_feature_set = current_set
+            curr_feature_set = current_set.copy()
 
         print('We can add the feature', add_feature, 'to the current features resulting in an accuracy of', precision_highest)
         i+=1
@@ -99,7 +99,7 @@ def backward_elimination(data):
             boo3=True
 
         if boo3 == True:
-            curr_feature_set = current_set
+            curr_feature_set = current_set.copy()
 
         print('We can eliminate the feature', eliminate_feature, 'from the current features resulting in an accuracy: ', precision_highest)
         i+=1
