@@ -78,4 +78,4 @@ When examining the search tree at the level 10
 Verifying the possiblity of removing the  4 th feature
 We can eliminate the feature 4 from the current features resulting in an accuracy:  0.21
 After considering all features, the resulting feature set is [4, 10] which exhibits an accuarcy:  0.966
-Time taken was: 233.81 seconds
+Time taken was: 489.01 seconds
