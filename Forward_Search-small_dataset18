@@ -1,0 +1,81 @@
+What dataset size do you want to use? Press 1 for small dataset or 2 for large dataset
+1
+what algorithm do you want to use? Press 1 for forward selection or 2 for backward elimination
+1
+When examining the search tree at the level 1
+Verifying the possiblity of adding the  1 th feature
+Verifying the possiblity of adding the  2 th feature
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  4 th feature
+Verifying the possiblity of adding the  5 th feature
+Verifying the possiblity of adding the  6 th feature
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  8 th feature
+Verifying the possiblity of adding the  9 th feature
+Verifying the possiblity of adding the  10 th feature
+We can add the feature 4 to the current features resulting in an accuracy: 0.813
+When examining the search tree at the level 2
+Verifying the possiblity of adding the  1 th feature
+Verifying the possiblity of adding the  2 th feature
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  5 th feature
+Verifying the possiblity of adding the  6 th feature
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  8 th feature
+Verifying the possiblity of adding the  9 th feature
+Verifying the possiblity of adding the  10 th feature
+We can add the feature 10 to the current features resulting in an accuracy: 0.966
+When examining the search tree at the level 3
+Verifying the possiblity of adding the  1 th feature
+Verifying the possiblity of adding the  2 th feature
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  5 th feature
+Verifying the possiblity of adding the  6 th feature
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  8 th feature
+Verifying the possiblity of adding the  9 th feature
+We can add the feature 8 to the current features resulting in an accuracy: 0.944
+When examining the search tree at the level 4
+Verifying the possiblity of adding the  1 th feature
+Verifying the possiblity of adding the  2 th feature
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  5 th feature
+Verifying the possiblity of adding the  6 th feature
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  9 th feature
+We can add the feature 6 to the current features resulting in an accuracy: 0.931
+When examining the search tree at the level 5
+Verifying the possiblity of adding the  1 th feature
+Verifying the possiblity of adding the  2 th feature
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  5 th feature
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  9 th feature
+We can add the feature 1 to the current features resulting in an accuracy: 0.891
+When examining the search tree at the level 6
+Verifying the possiblity of adding the  2 th feature
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  5 th feature
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  9 th feature
+We can add the feature 9 to the current features resulting in an accuracy: 0.857
+When examining the search tree at the level 7
+Verifying the possiblity of adding the  2 th feature
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  5 th feature
+Verifying the possiblity of adding the  7 th feature
+We can add the feature 2 to the current features resulting in an accuracy: 0.822
+When examining the search tree at the level 8
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  5 th feature
+Verifying the possiblity of adding the  7 th feature
+We can add the feature 5 to the current features resulting in an accuracy: 0.82
+When examining the search tree at the level 9
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  7 th feature
+We can add the feature 7 to the current features resulting in an accuracy: 0.789
+When examining the search tree at the level 10
+Verifying the possiblity of adding the  3 th feature
+We can add the feature 3 to the current features resulting in an accuracy: 0.765
+After considering all features, the resulting feature set is [4, 10] which exhibits an accuarcy:  0.966
+Time taken was: 163.42 seconds
