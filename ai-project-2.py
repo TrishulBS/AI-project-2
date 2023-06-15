@@ -77,7 +77,7 @@ def backward_elimination(data):
                     break
             if boo == True:
                 print('Verifying the possiblity of removing the ', j, 'th feature')
-                precision = cross_val_without_one_feature(2, data, current_set.copy(), j)
+                precision = calculate_accuracy(2, data, current_set.copy(), j)
 
                 if precision > precision_highest:
                     precision_highest = precision
