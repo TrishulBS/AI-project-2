@@ -144,7 +144,11 @@ def calculate_accuracy(data, algo, current_list, feature_to_test):
 
     return num_correct_classifications / num_samples
 
-
+def get_data(file_path):
+    with open(file_path, 'r') as file:
+        lines = file.readlines()
+        data = [list(map(float, line.strip().split())) for line in lines]
+        return np.array(data)
 
 
 start = time.time()
