@@ -1,0 +1,81 @@
+What dataset size do you want to use? Press 1 for small dataset or 2 for large dataset
+1
+what algorithm do you want to use? Press 1 for forward selection or 2 for backward elimination
+2
+When examining the search tree at the level 1
+Verifying the possiblity of removing the  1 th feature
+Verifying the possiblity of removing the  2 th feature
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  5 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  7 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  9 th feature
+Verifying the possiblity of removing the  10 th feature
+We can eliminate the feature 2 from the current features resulting in an accuracy:  0.789
+When examining the search tree at the level 2
+Verifying the possiblity of removing the  1 th feature
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  5 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  7 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  9 th feature
+Verifying the possiblity of removing the  10 th feature
+We can eliminate the feature 1 from the current features resulting in an accuracy:  0.815
+When examining the search tree at the level 3
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  5 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  7 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  9 th feature
+Verifying the possiblity of removing the  10 th feature
+We can eliminate the feature 7 from the current features resulting in an accuracy:  0.849
+When examining the search tree at the level 4
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  5 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  9 th feature
+Verifying the possiblity of removing the  10 th feature
+We can eliminate the feature 9 from the current features resulting in an accuracy:  0.857
+When examining the search tree at the level 5
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  5 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  10 th feature
+We can eliminate the feature 6 from the current features resulting in an accuracy:  0.871
+When examining the search tree at the level 6
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  5 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  10 th feature
+We can eliminate the feature 8 from the current features resulting in an accuracy:  0.899
+When examining the search tree at the level 7
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  5 th feature
+Verifying the possiblity of removing the  10 th feature
+We can eliminate the feature 3 from the current features resulting in an accuracy:  0.93
+When examining the search tree at the level 8
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  5 th feature
+Verifying the possiblity of removing the  10 th feature
+We can eliminate the feature 5 from the current features resulting in an accuracy:  0.966
+When examining the search tree at the level 9
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  10 th feature
+We can eliminate the feature 10 from the current features resulting in an accuracy:  0.813
+When examining the search tree at the level 10
+Verifying the possiblity of removing the  4 th feature
+We can eliminate the feature 4 from the current features resulting in an accuracy:  0.21
+After considering all features, the resulting feature set is [4, 10] which exhibits an accuarcy:  0.966
+Time taken was: 233.81 seconds
