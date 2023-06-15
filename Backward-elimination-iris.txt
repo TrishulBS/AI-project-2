@@ -1,6 +1,6 @@
 deepakurs@Deepaks-MacBook-Air AI-project-2 % python3 ai-project-2-ext.py
 What dataset size do you want to use? Press 1 for small dataset or 2 for large dataset
-2
+1
 what algorithm do you want to use? Press 1 for forward selection or 2 for backward elimination
 2
 When examining the search tree at the level 1
