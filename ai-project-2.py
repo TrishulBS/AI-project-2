@@ -150,7 +150,7 @@ def get_data(file_path):
 
 start = time.time()
 if dataset == 1:
-    data=get_data('SmallData.txt')
+    data=get_data('CS170_small_Data__18.txt')
 else:
     data=get_data('LargeData.txt')
     
