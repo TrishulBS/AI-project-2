@@ -1,0 +1,256 @@
+What dataset size do you want to use? Press 1 for small dataset or 2 for large dataset
+2
+what algorithm do you want to use? Press 1 for forward selection or 2 for backward elimination
+2
+When examining the search tree at the level 1
+Verifying the possiblity of removing the  1 th feature
+Verifying the possiblity of removing the  2 th feature
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  5 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  7 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  9 th feature
+Verifying the possiblity of removing the  10 th feature
+Verifying the possiblity of removing the  11 th feature
+Verifying the possiblity of removing the  12 th feature
+Verifying the possiblity of removing the  13 th feature
+Verifying the possiblity of removing the  14 th feature
+Verifying the possiblity of removing the  15 th feature
+Verifying the possiblity of removing the  16 th feature
+Verifying the possiblity of removing the  17 th feature
+Verifying the possiblity of removing the  18 th feature
+Verifying the possiblity of removing the  19 th feature
+Verifying the possiblity of removing the  20 th feature
+We can eliminate the feature 9 from the current features resulting in an accuracy:  0.722
+When examining the search tree at the level 2
+Verifying the possiblity of removing the  1 th feature
+Verifying the possiblity of removing the  2 th feature
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  5 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  7 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  10 th feature
+Verifying the possiblity of removing the  11 th feature
+Verifying the possiblity of removing the  12 th feature
+Verifying the possiblity of removing the  13 th feature
+Verifying the possiblity of removing the  14 th feature
+Verifying the possiblity of removing the  15 th feature
+Verifying the possiblity of removing the  16 th feature
+Verifying the possiblity of removing the  17 th feature
+Verifying the possiblity of removing the  18 th feature
+Verifying the possiblity of removing the  19 th feature
+Verifying the possiblity of removing the  20 th feature
+We can eliminate the feature 18 from the current features resulting in an accuracy:  0.731
+When examining the search tree at the level 3
+Verifying the possiblity of removing the  1 th feature
+Verifying the possiblity of removing the  2 th feature
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  5 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  7 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  10 th feature
+Verifying the possiblity of removing the  11 th feature
+Verifying the possiblity of removing the  12 th feature
+Verifying the possiblity of removing the  13 th feature
+Verifying the possiblity of removing the  14 th feature
+Verifying the possiblity of removing the  15 th feature
+Verifying the possiblity of removing the  16 th feature
+Verifying the possiblity of removing the  17 th feature
+Verifying the possiblity of removing the  19 th feature
+Verifying the possiblity of removing the  20 th feature
+We can eliminate the feature 11 from the current features resulting in an accuracy:  0.733
+When examining the search tree at the level 4
+Verifying the possiblity of removing the  1 th feature
+Verifying the possiblity of removing the  2 th feature
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  5 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  7 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  10 th feature
+Verifying the possiblity of removing the  12 th feature
+Verifying the possiblity of removing the  13 th feature
+Verifying the possiblity of removing the  14 th feature
+Verifying the possiblity of removing the  15 th feature
+Verifying the possiblity of removing the  16 th feature
+Verifying the possiblity of removing the  17 th feature
+Verifying the possiblity of removing the  19 th feature
+Verifying the possiblity of removing the  20 th feature
+We can eliminate the feature 2 from the current features resulting in an accuracy:  0.7335
+When examining the search tree at the level 5
+Verifying the possiblity of removing the  1 th feature
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  5 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  7 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  10 th feature
+Verifying the possiblity of removing the  12 th feature
+Verifying the possiblity of removing the  13 th feature
+Verifying the possiblity of removing the  14 th feature
+Verifying the possiblity of removing the  15 th feature
+Verifying the possiblity of removing the  16 th feature
+Verifying the possiblity of removing the  17 th feature
+Verifying the possiblity of removing the  19 th feature
+Verifying the possiblity of removing the  20 th feature
+We can eliminate the feature 14 from the current features resulting in an accuracy:  0.741
+When examining the search tree at the level 6
+Verifying the possiblity of removing the  1 th feature
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  5 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  7 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  10 th feature
+Verifying the possiblity of removing the  12 th feature
+Verifying the possiblity of removing the  13 th feature
+Verifying the possiblity of removing the  15 th feature
+Verifying the possiblity of removing the  16 th feature
+Verifying the possiblity of removing the  17 th feature
+Verifying the possiblity of removing the  19 th feature
+Verifying the possiblity of removing the  20 th feature
+We can eliminate the feature 13 from the current features resulting in an accuracy:  0.7525
+When examining the search tree at the level 7
+Verifying the possiblity of removing the  1 th feature
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  5 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  7 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  10 th feature
+Verifying the possiblity of removing the  12 th feature
+Verifying the possiblity of removing the  15 th feature
+Verifying the possiblity of removing the  16 th feature
+Verifying the possiblity of removing the  17 th feature
+Verifying the possiblity of removing the  19 th feature
+Verifying the possiblity of removing the  20 th feature
+We can eliminate the feature 5 from the current features resulting in an accuracy:  0.765
+When examining the search tree at the level 8
+Verifying the possiblity of removing the  1 th feature
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  7 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  10 th feature
+Verifying the possiblity of removing the  12 th feature
+Verifying the possiblity of removing the  15 th feature
+Verifying the possiblity of removing the  16 th feature
+Verifying the possiblity of removing the  17 th feature
+Verifying the possiblity of removing the  19 th feature
+Verifying the possiblity of removing the  20 th feature
+We can eliminate the feature 15 from the current features resulting in an accuracy:  0.7815
+When examining the search tree at the level 9
+Verifying the possiblity of removing the  1 th feature
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  7 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  10 th feature
+Verifying the possiblity of removing the  12 th feature
+Verifying the possiblity of removing the  16 th feature
+Verifying the possiblity of removing the  17 th feature
+Verifying the possiblity of removing the  19 th feature
+Verifying the possiblity of removing the  20 th feature
+We can eliminate the feature 20 from the current features resulting in an accuracy:  0.782
+When examining the search tree at the level 10
+Verifying the possiblity of removing the  1 th feature
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  7 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  10 th feature
+Verifying the possiblity of removing the  12 th feature
+Verifying the possiblity of removing the  16 th feature
+Verifying the possiblity of removing the  17 th feature
+Verifying the possiblity of removing the  19 th feature
+We can eliminate the feature 7 from the current features resulting in an accuracy:  0.7875
+When examining the search tree at the level 11
+Verifying the possiblity of removing the  1 th feature
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  10 th feature
+Verifying the possiblity of removing the  12 th feature
+Verifying the possiblity of removing the  16 th feature
+Verifying the possiblity of removing the  17 th feature
+Verifying the possiblity of removing the  19 th feature
+We can eliminate the feature 1 from the current features resulting in an accuracy:  0.8085
+When examining the search tree at the level 12
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  10 th feature
+Verifying the possiblity of removing the  12 th feature
+Verifying the possiblity of removing the  16 th feature
+Verifying the possiblity of removing the  17 th feature
+Verifying the possiblity of removing the  19 th feature
+We can eliminate the feature 19 from the current features resulting in an accuracy:  0.815
+When examining the search tree at the level 13
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  10 th feature
+Verifying the possiblity of removing the  12 th feature
+Verifying the possiblity of removing the  16 th feature
+Verifying the possiblity of removing the  17 th feature
+We can eliminate the feature 17 from the current features resulting in an accuracy:  0.844
+When examining the search tree at the level 14
+Verifying the possiblity of removing the  3 th feature
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  10 th feature
+Verifying the possiblity of removing the  12 th feature
+Verifying the possiblity of removing the  16 th feature
+We can eliminate the feature 3 from the current features resulting in an accuracy:  0.8775
+When examining the search tree at the level 15
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  10 th feature
+Verifying the possiblity of removing the  12 th feature
+Verifying the possiblity of removing the  16 th feature
+We can eliminate the feature 16 from the current features resulting in an accuracy:  0.898
+When examining the search tree at the level 16
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  10 th feature
+Verifying the possiblity of removing the  12 th feature
+We can eliminate the feature 12 from the current features resulting in an accuracy:  0.926
+When examining the search tree at the level 17
+Verifying the possiblity of removing the  4 th feature
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  10 th feature
+We can eliminate the feature 4 from the current features resulting in an accuracy:  0.954
+When examining the search tree at the level 18
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  8 th feature
+Verifying the possiblity of removing the  10 th feature
+We can eliminate the feature 8 from the current features resulting in an accuracy:  0.9805
+When examining the search tree at the level 19
+Verifying the possiblity of removing the  6 th feature
+Verifying the possiblity of removing the  10 th feature
+We can eliminate the feature 10 from the current features resulting in an accuracy:  0.855
+When examining the search tree at the level 20
+Verifying the possiblity of removing the  6 th feature
+We can eliminate the feature 6 from the current features resulting in an accuracy:  0.817
+After considering all features, the resulting feature set is [6, 10] which exhibits an accuarcy:  0.9805
+Time taken was: 7232.76 seconds
