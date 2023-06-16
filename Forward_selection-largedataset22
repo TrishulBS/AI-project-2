@@ -1,0 +1,256 @@
+What dataset size do you want to use? Press 1 for small dataset or 2 for large dataset
+2
+what algorithm do you want to use? Press 1 for forward selection or 2 for backward elimination
+1
+When examining the search tree at the 1 th level
+Verifying the possiblity of adding the  1 th feature
+Verifying the possiblity of adding the  2 th feature
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  4 th feature
+Verifying the possiblity of adding the  5 th feature
+Verifying the possiblity of adding the  6 th feature
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  8 th feature
+Verifying the possiblity of adding the  9 th feature
+Verifying the possiblity of adding the  10 th feature
+Verifying the possiblity of adding the  11 th feature
+Verifying the possiblity of adding the  12 th feature
+Verifying the possiblity of adding the  13 th feature
+Verifying the possiblity of adding the  14 th feature
+Verifying the possiblity of adding the  15 th feature
+Verifying the possiblity of adding the  16 th feature
+Verifying the possiblity of adding the  17 th feature
+Verifying the possiblity of adding the  18 th feature
+Verifying the possiblity of adding the  19 th feature
+Verifying the possiblity of adding the  20 th feature
+We can add the feature 6 to the current features resulting in an accuracy of 0.855
+When examining the search tree at the 2 th level
+Verifying the possiblity of adding the  1 th feature
+Verifying the possiblity of adding the  2 th feature
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  4 th feature
+Verifying the possiblity of adding the  5 th feature
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  8 th feature
+Verifying the possiblity of adding the  9 th feature
+Verifying the possiblity of adding the  10 th feature
+Verifying the possiblity of adding the  11 th feature
+Verifying the possiblity of adding the  12 th feature
+Verifying the possiblity of adding the  13 th feature
+Verifying the possiblity of adding the  14 th feature
+Verifying the possiblity of adding the  15 th feature
+Verifying the possiblity of adding the  16 th feature
+Verifying the possiblity of adding the  17 th feature
+Verifying the possiblity of adding the  18 th feature
+Verifying the possiblity of adding the  19 th feature
+Verifying the possiblity of adding the  20 th feature
+We can add the feature 10 to the current features resulting in an accuracy of 0.9805
+When examining the search tree at the 3 th level
+Verifying the possiblity of adding the  1 th feature
+Verifying the possiblity of adding the  2 th feature
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  4 th feature
+Verifying the possiblity of adding the  5 th feature
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  8 th feature
+Verifying the possiblity of adding the  9 th feature
+Verifying the possiblity of adding the  11 th feature
+Verifying the possiblity of adding the  12 th feature
+Verifying the possiblity of adding the  13 th feature
+Verifying the possiblity of adding the  14 th feature
+Verifying the possiblity of adding the  15 th feature
+Verifying the possiblity of adding the  16 th feature
+Verifying the possiblity of adding the  17 th feature
+Verifying the possiblity of adding the  18 th feature
+Verifying the possiblity of adding the  19 th feature
+Verifying the possiblity of adding the  20 th feature
+We can add the feature 8 to the current features resulting in an accuracy of 0.954
+When examining the search tree at the 4 th level
+Verifying the possiblity of adding the  1 th feature
+Verifying the possiblity of adding the  2 th feature
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  4 th feature
+Verifying the possiblity of adding the  5 th feature
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  9 th feature
+Verifying the possiblity of adding the  11 th feature
+Verifying the possiblity of adding the  12 th feature
+Verifying the possiblity of adding the  13 th feature
+Verifying the possiblity of adding the  14 th feature
+Verifying the possiblity of adding the  15 th feature
+Verifying the possiblity of adding the  16 th feature
+Verifying the possiblity of adding the  17 th feature
+Verifying the possiblity of adding the  18 th feature
+Verifying the possiblity of adding the  19 th feature
+Verifying the possiblity of adding the  20 th feature
+We can add the feature 5 to the current features resulting in an accuracy of 0.9265
+When examining the search tree at the 5 th level
+Verifying the possiblity of adding the  1 th feature
+Verifying the possiblity of adding the  2 th feature
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  4 th feature
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  9 th feature
+Verifying the possiblity of adding the  11 th feature
+Verifying the possiblity of adding the  12 th feature
+Verifying the possiblity of adding the  13 th feature
+Verifying the possiblity of adding the  14 th feature
+Verifying the possiblity of adding the  15 th feature
+Verifying the possiblity of adding the  16 th feature
+Verifying the possiblity of adding the  17 th feature
+Verifying the possiblity of adding the  18 th feature
+Verifying the possiblity of adding the  19 th feature
+Verifying the possiblity of adding the  20 th feature
+We can add the feature 12 to the current features resulting in an accuracy of 0.8935
+When examining the search tree at the 6 th level
+Verifying the possiblity of adding the  1 th feature
+Verifying the possiblity of adding the  2 th feature
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  4 th feature
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  9 th feature
+Verifying the possiblity of adding the  11 th feature
+Verifying the possiblity of adding the  13 th feature
+Verifying the possiblity of adding the  14 th feature
+Verifying the possiblity of adding the  15 th feature
+Verifying the possiblity of adding the  16 th feature
+Verifying the possiblity of adding the  17 th feature
+Verifying the possiblity of adding the  18 th feature
+Verifying the possiblity of adding the  19 th feature
+Verifying the possiblity of adding the  20 th feature
+We can add the feature 19 to the current features resulting in an accuracy of 0.874
+When examining the search tree at the 7 th level
+Verifying the possiblity of adding the  1 th feature
+Verifying the possiblity of adding the  2 th feature
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  4 th feature
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  9 th feature
+Verifying the possiblity of adding the  11 th feature
+Verifying the possiblity of adding the  13 th feature
+Verifying the possiblity of adding the  14 th feature
+Verifying the possiblity of adding the  15 th feature
+Verifying the possiblity of adding the  16 th feature
+Verifying the possiblity of adding the  17 th feature
+Verifying the possiblity of adding the  18 th feature
+Verifying the possiblity of adding the  20 th feature
+We can add the feature 4 to the current features resulting in an accuracy of 0.8435
+When examining the search tree at the 8 th level
+Verifying the possiblity of adding the  1 th feature
+Verifying the possiblity of adding the  2 th feature
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  9 th feature
+Verifying the possiblity of adding the  11 th feature
+Verifying the possiblity of adding the  13 th feature
+Verifying the possiblity of adding the  14 th feature
+Verifying the possiblity of adding the  15 th feature
+Verifying the possiblity of adding the  16 th feature
+Verifying the possiblity of adding the  17 th feature
+Verifying the possiblity of adding the  18 th feature
+Verifying the possiblity of adding the  20 th feature
+We can add the feature 18 to the current features resulting in an accuracy of 0.8125
+When examining the search tree at the 9 th level
+Verifying the possiblity of adding the  1 th feature
+Verifying the possiblity of adding the  2 th feature
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  9 th feature
+Verifying the possiblity of adding the  11 th feature
+Verifying the possiblity of adding the  13 th feature
+Verifying the possiblity of adding the  14 th feature
+Verifying the possiblity of adding the  15 th feature
+Verifying the possiblity of adding the  16 th feature
+Verifying the possiblity of adding the  17 th feature
+Verifying the possiblity of adding the  20 th feature
+We can add the feature 20 to the current features resulting in an accuracy of 0.7985
+When examining the search tree at the 10 th level
+Verifying the possiblity of adding the  1 th feature
+Verifying the possiblity of adding the  2 th feature
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  9 th feature
+Verifying the possiblity of adding the  11 th feature
+Verifying the possiblity of adding the  13 th feature
+Verifying the possiblity of adding the  14 th feature
+Verifying the possiblity of adding the  15 th feature
+Verifying the possiblity of adding the  16 th feature
+Verifying the possiblity of adding the  17 th feature
+We can add the feature 1 to the current features resulting in an accuracy of 0.792
+When examining the search tree at the 11 th level
+Verifying the possiblity of adding the  2 th feature
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  9 th feature
+Verifying the possiblity of adding the  11 th feature
+Verifying the possiblity of adding the  13 th feature
+Verifying the possiblity of adding the  14 th feature
+Verifying the possiblity of adding the  15 th feature
+Verifying the possiblity of adding the  16 th feature
+Verifying the possiblity of adding the  17 th feature
+We can add the feature 9 to the current features resulting in an accuracy of 0.78
+When examining the search tree at the 12 th level
+Verifying the possiblity of adding the  2 th feature
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  11 th feature
+Verifying the possiblity of adding the  13 th feature
+Verifying the possiblity of adding the  14 th feature
+Verifying the possiblity of adding the  15 th feature
+Verifying the possiblity of adding the  16 th feature
+Verifying the possiblity of adding the  17 th feature
+We can add the feature 2 to the current features resulting in an accuracy of 0.7655
+When examining the search tree at the 13 th level
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  11 th feature
+Verifying the possiblity of adding the  13 th feature
+Verifying the possiblity of adding the  14 th feature
+Verifying the possiblity of adding the  15 th feature
+Verifying the possiblity of adding the  16 th feature
+Verifying the possiblity of adding the  17 th feature
+We can add the feature 14 to the current features resulting in an accuracy of 0.7645
+When examining the search tree at the 14 th level
+Verifying the possiblity of adding the  3 th feature
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  11 th feature
+Verifying the possiblity of adding the  13 th feature
+Verifying the possiblity of adding the  15 th feature
+Verifying the possiblity of adding the  16 th feature
+Verifying the possiblity of adding the  17 th feature
+We can add the feature 3 to the current features resulting in an accuracy of 0.7595
+When examining the search tree at the 15 th level
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  11 th feature
+Verifying the possiblity of adding the  13 th feature
+Verifying the possiblity of adding the  15 th feature
+Verifying the possiblity of adding the  16 th feature
+Verifying the possiblity of adding the  17 th feature
+We can add the feature 16 to the current features resulting in an accuracy of 0.744
+When examining the search tree at the 16 th level
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  11 th feature
+Verifying the possiblity of adding the  13 th feature
+Verifying the possiblity of adding the  15 th feature
+Verifying the possiblity of adding the  17 th feature
+We can add the feature 13 to the current features resulting in an accuracy of 0.732
+When examining the search tree at the 17 th level
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  11 th feature
+Verifying the possiblity of adding the  15 th feature
+Verifying the possiblity of adding the  17 th feature
+We can add the feature 11 to the current features resulting in an accuracy of 0.7295
+When examining the search tree at the 18 th level
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  15 th feature
+Verifying the possiblity of adding the  17 th feature
+We can add the feature 17 to the current features resulting in an accuracy of 0.723
+When examining the search tree at the 19 th level
+Verifying the possiblity of adding the  7 th feature
+Verifying the possiblity of adding the  15 th feature
+We can add the feature 7 to the current features resulting in an accuracy of 0.711
+When examining the search tree at the 20 th level
+Verifying the possiblity of adding the  15 th feature
+We can add the feature 15 to the current features resulting in an accuracy of 0.7105
+After considering all features, the resulting feature set is [6, 10] which exhibits an accuarcy of  0.9805
+Time taken was: 8850.85 seconds
