@@ -68,7 +68,6 @@ def backward_elimination(data):
 
 
         j=1
-        print(current_set)
         while(j<len(data[0])):
             boo = False
             for ele in current_set:
